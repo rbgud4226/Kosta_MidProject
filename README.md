@@ -52,14 +52,6 @@ API를 활용하여 사용자에게 <br>
 - server   : tomcat
 - Version Control : Github
 
-&nbsp;
-
-### 기능명세서
-<hr>
-
-![img.png](img.png)
-
-<br>
 
 
   
