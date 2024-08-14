@@ -1,4 +1,4 @@
-# Kosta Mid_PROJECT<br/>
+# Kosta Mid_PROJECT<br/>(캠핑 & 관광 정보 제공 사이트 개발)
 
 ## 목차
 * [프로젝트 개요](#프로젝트-개요)
